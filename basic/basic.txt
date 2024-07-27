@@ -1,0 +1,3 @@
+10 CLS
+20 PRINT "owo Kawaii world!"
+30 END
